@@ -1,0 +1,176 @@
+header .row .col-md-6 .row{
+	background:#015761;
+	min-height: 70vh;
+}
+.right-sidebar{
+	position:fixed;
+	top: 30.2%;
+	z-index:999;
+	right:119px;
+}
+.right-sidebar ul{
+	border:none;
+}
+.right-sidebar ul li{
+	list-style:none;
+	width: 50px;
+	background: #F7DC4F;
+	transition: 0.6s;
+}
+/*
+.right-sidebar ul li:nth-child(1){
+	background:#3b5999;
+}
+.right-sidebar ul li:nth-child(2){
+	background:#3b5666;
+}
+.right-sidebar ul li:nth-child(3){
+	background:#3b5444;
+}
+.right-sidebar ul li:nth-child(4){
+	background:#3b5888;
+}
+*/
+.right-sidebar ul li:hover{
+	background:#015761;
+	width: 100px;
+	cursor: pointer;
+}
+.right-sidebar i{
+	padding: 15px;
+	font-size: 30px;
+	color:black;
+}
+
+.right-sidebar i:hover{
+	color: #ffffff;
+}
+.my-banner{
+	background:url(Images/DSC_0072.JPG);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+	min-height:78vh;
+}
+.My-name{
+	color:#EFD74F;
+	font-size: 20px;
+}
+.my-nav {
+	
+}
+.my-nav li {
+	
+}
+.my-nav li a{
+	color:white;
+	font-size:  14px;
+}
+.my-nav li a:hover{
+	text-decoration:none;
+}
+.Greatings{
+	color:#EFD74F;
+	font-size:30PX;
+}
+.Greatings2{
+	
+	color:white;
+	font-size:  50px;
+}
+.text-capitalize {
+    text-transform: capitalize!important;
+    color: white;
+}
+.Greatings2span{
+	font-size:20px;
+}
+.about-section{
+	background:#F1F0F0;
+	padding:50px;
+}
+.about-section h1{
+	color:#015761;
+	font-weight:600;
+}
+.Showreel{
+	color:#015761;
+	padding:40px;
+	text-align:center;
+}
+.Showreel h1{
+	
+color:#015761;
+	
+font-weight: 800;
+	
+font-size:  60px;
+	
+padding: 20px;
+}
+.gallery-section h1{
+color:#015761;
+font-weight: 500;
+font-size:  60px;
+padding: 20px;
+}
+.Myimage{
+	height:80%;
+}
+.Myimage1{
+	height: 80%;
+}
+.gallery-section img{
+	
+height: 60vh;
+}
+.me{
+	width:88%;
+}
+.my-banner1{
+	background:url(Images/DSC_0034.JPG);
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+	min-height:80vh;
+}
+
+.info{
+	background:#015761;
+	min-height: 80vh;
+	padding:50px;
+	color:white;
+}
+.info h2{
+	color: #EFD74F;
+    font-size: 30PX;
+}
+.info h4{
+	
+}
+
+.info h6{
+	
+}
+.info p{
+	color:white;
+}
+.info a{
+	color: greenyellow;
+}
+.info ul{}
+.info ul li{
+	
+}
+.info i{
+	color:white;
+	
+	transition: 0.5s all;
+}
+.info i:hover{
+	color:aquamarine;
+}
+.finish-section a{
+	color: black;
+}
+
